@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/papyrus-author">  
+<a href="https://etboratem.github.io/.github/papyrus-author">  
 <img src="https://img.shields.io/badge/Get_Papyrus_Author-darkgreen?style=for-the-badge&logo=apple" alt="Get Papyrus Author">  
 </a>  
 </div>  
